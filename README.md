@@ -10,6 +10,7 @@
 ## 📁 Contenido Destacado
 
 - **Dinámica molecular/**: Próximamente...
+- **Metaprogramación y Telegram/**: Próximamente...
 - **Algoritmos de Montecarlo/**: Descubre el poder del muestreo aleatorio para resolver integrales complejas y simular incertidumbres en sistemas físicos.
 - **Bases de datos/**: Integra datos experimentales en modelos computacionales para análisis avanzados.
 - **Calculo/**: Derivadas, integrales y series con SymPy y visualizaciones interactivas.
